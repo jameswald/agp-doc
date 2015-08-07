@@ -4,17 +4,17 @@ Android Gradle Plugin documentation
 This repository hosts the DSL reference and Groovydoc for every version of the
 Android Gradle Plugin.
 
-* 1.3.0 - [dsl][dsl-1.3.0] [groovydoc][groovydoc-1.3.0]
-* 1.2.3 - [dsl][dsl-1.2.3] [groovydoc][groovydoc-1.2.3]
-* 1.2.2 - [dsl][dsl-1.2.2] [groovydoc][groovydoc-1.2.2]
-* 1.2.1 - [dsl][dsl-1.2.1] [groovydoc][groovydoc-1.2.1]
-* 1.2.0 - [dsl][dsl-1.2.0] [groovydoc][groovydoc-1.2.0]
-* 1.1.3 - [dsl][dsl-1.1.3] [groovydoc][groovydoc-1.1.3]
-* 1.1.2 - [dsl][dsl-1.1.2] [groovydoc][groovydoc-1.1.2]
-* 1.1.1 - [dsl][dsl-1.1.1] [groovydoc][groovydoc-1.1.1]
-* 1.1.0 - [dsl][dsl-1.1.0] [groovydoc][groovydoc-1.1.0]
-* 1.0.1 - [dsl][dsl-1.0.1] [groovydoc][groovydoc-1.0.1]
-* 1.0.0 - [dsl][dsl-1.0.0] [groovydoc][groovydoc-1.0.0]
+* 1.3.0 - [DSL][dsl-1.3.0] [Groovydoc][groovydoc-1.3.0]
+* 1.2.3 - [DSL][dsl-1.2.3] [Groovydoc][groovydoc-1.2.3]
+* 1.2.2 - [DSL][dsl-1.2.2] [Groovydoc][groovydoc-1.2.2]
+* 1.2.1 - [DSL][dsl-1.2.1] [Groovydoc][groovydoc-1.2.1]
+* 1.2.0 - [DSL][dsl-1.2.0] [Groovydoc][groovydoc-1.2.0]
+* 1.1.3 - [DSL][dsl-1.1.3] [Groovydoc][groovydoc-1.1.3]
+* 1.1.2 - [DSL][dsl-1.1.2] [Groovydoc][groovydoc-1.1.2]
+* 1.1.1 - [DSL][dsl-1.1.1] [Groovydoc][groovydoc-1.1.1]
+* 1.1.0 - [DSL][dsl-1.1.0] [Groovydoc][groovydoc-1.1.0]
+* 1.0.1 - [DSL][dsl-1.0.1] [Groovydoc][groovydoc-1.0.1]
+* 1.0.0 - [DSL][dsl-1.0.0] [Groovydoc][groovydoc-1.0.0]
 
 
 
