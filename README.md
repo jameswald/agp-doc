@@ -4,7 +4,8 @@ Android Gradle Plugin documentation
 This repository hosts the DSL reference and Groovydoc for every version of the
 Android Gradle Plugin.
 
-* Current (1.3.0) - [DSL][dsl-current] [Groovydoc][groovydoc-current]
+* Current (1.3.1) - [DSL][dsl-current] [Groovydoc][groovydoc-current]
+* 1.3.1 - [DSL][dsl-1.3.1] [Groovydoc][groovydoc-1.3.1]
 * 1.3.0 - [DSL][dsl-1.3.0] [Groovydoc][groovydoc-1.3.0]
 * 1.2.3 - [DSL][dsl-1.2.3] [Groovydoc][groovydoc-1.2.3]
 * 1.2.2 - [DSL][dsl-1.2.2] [Groovydoc][groovydoc-1.2.2]
@@ -64,6 +65,7 @@ License
 
 
 [dsl-current]: https://jameswald.github.io/agp-doc/current/dsl
+[dsl-1.3.1]: https://jameswald.github.io/agp-doc/1.3.1/dsl
 [dsl-1.3.0]: https://jameswald.github.io/agp-doc/1.3.0/dsl
 [dsl-1.2.3]: https://jameswald.github.io/agp-doc/1.2.3/dsl
 [dsl-1.2.2]: https://jameswald.github.io/agp-doc/1.2.2/dsl
@@ -76,6 +78,7 @@ License
 [dsl-1.0.1]: https://jameswald.github.io/agp-doc/1.0.1/dsl
 [dsl-1.0.0]: https://jameswald.github.io/agp-doc/1.0.0/dsl
 [groovydoc-current]: https://jameswald.github.io/agp-doc/current/groovydoc
+[groovydoc-1.3.1]: https://jameswald.github.io/agp-doc/1.3.1/groovydoc
 [groovydoc-1.3.0]: https://jameswald.github.io/agp-doc/1.3.0/groovydoc
 [groovydoc-1.2.3]: https://jameswald.github.io/agp-doc/1.2.3/groovydoc
 [groovydoc-1.2.2]: https://jameswald.github.io/agp-doc/1.2.2/groovydoc
