@@ -1,3 +1,7 @@
+# DEPRECATED
+
+agp-doc is deprecated and no additional documentation will be published here. Google is hosting new documentation at https://github.com/google/android-gradle-dsl. Thanks for stopping by!
+
 Android Gradle Plugin documentation
 ===================================
 
